@@ -6,7 +6,7 @@
 
     <string name="correct_toast">Правильно</string>
     <string name="incorrect_toast">Не правильно</string>
-    
+
     //Question
     <string name="question_australia">Канберра столица Автралии</string>
     <string name="question_ocean">Тихий океан больше чем Атлантический океан</string>
@@ -16,5 +16,10 @@
     <string name="question_asia">Байкал самая древняя и глубокая пресноводное озеро в мире</string>
     <string name="next_button">След</string>
     <string name="prev_button">Пред</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">show_answer_button</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
 
 </resources>
